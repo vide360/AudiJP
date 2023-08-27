@@ -1,0 +1,88 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_08D85E9C_3975_90B0_41B2_F316FDF7BA9C.source = https://wa.me/5555838185270
+LinkBehaviour_142D90A0_3975_B090_41BE_A8D9A0656A48.source = https://wa.me/5555838185270
+LinkBehaviour_08DACE96_3975_90B0_41C4_8E877CCAA24A.source = https://www.facebook.com/audicenter.joaopessoa
+LinkBehaviour_13906D6A_396D_B190_41A7_8036EDD8D6EB.source = https://www.facebook.com/audicenter.joaopessoa
+LinkBehaviour_15C69440_397A_F790_41C2_D20AC06054AE.source = https://www.google.com/maps/place/Audi+Center+Jo%C3%A3o+Pessoa/@-7.1199206,-34.8431119,15z/data=!4m6!3m5!1s0x7acdd499f10caf3:0xfb065c17ab7567cd!8m2!3d-7.1199206!4d-34.8431119!16s%2Fg%2F1ptw32fwf?entry=ttu
+LinkBehaviour_08D81E9C_3975_90B0_41B4_F715768EEA00.source = https://www.google.com/maps/place/Audi+Center+Jo%C3%A3o+Pessoa/@-7.1199206,-34.8431119,15z/data=!4m6!3m5!1s0x7acdd499f10caf3:0xfb065c17ab7567cd!8m2!3d-7.1199206!4d-34.8431119!16s%2Fg%2F1ptw32fwf?entry=ttu
+LinkBehaviour_08E59E94_3975_90B0_41C1_7A8A4B907DE1.source = https://www.instagram.com/audicenter.joaopessoa/
+LinkBehaviour_134948B7_396E_90F0_41CC_18AA245BB9DC.source = https://www.instagram.com/audicenter.joaopessoa/
+
+## Media
+
+### Audio
+audiores_1FFA70FB_38BD_9070_41C6_626E36D0A6DF.mp3Url = media/audio_1FBB7698_38BD_90B0_41BD_344F8FC54CDB_pt.mp3
+
+### Image
+imlevel_1FF43FD9_38B6_90B0_41C6_5F5319F11F8C.url = media/popup_1111DBCD_38B6_9090_41B4_A4E9C022964F_pt_0_0.jpg
+imlevel_1FF7CFD9_38B6_90B0_41A5_3195E8C596D2.url = media/popup_1111DBCD_38B6_9090_41B4_A4E9C022964F_pt_0_1.jpg
+imlevel_1FF7EFDA_38B6_90B0_41C1_7276F408F30B.url = media/popup_1111DBCD_38B6_9090_41B4_A4E9C022964F_pt_0_2.jpg
+imlevel_1FF7FFDA_38B6_90B0_41CA_9CA8EF9A36F7.url = media/popup_1111DBCD_38B6_9090_41B4_A4E9C022964F_pt_0_3.jpg
+imlevel_2DC03B90_389D_F0B0_41B2_2EF9A7CA31EA.url = media/popup_2D9F2B04_389D_B190_41B7_DC3E0BB8C6F5_pt_0_0.png
+imlevel_2DC5CB91_389D_F0B0_4177_BC2FC709CC2C.url = media/popup_2D9F2B04_389D_B190_41B7_DC3E0BB8C6F5_pt_0_1.png
+imlevel_2DC23B91_389D_F0B0_41AB_4EB315C0969A.url = media/popup_2D9F2B04_389D_B190_41B7_DC3E0BB8C6F5_pt_0_2.png
+imlevel_2E03F944_389A_F190_41C7_4D1D31DA89BB.url = media/popup_2F9EA668_389A_B390_41A8_FC2600AE06E7_pt_0_0.png
+imlevel_2E03E945_389A_F190_41C3_C52C6470331F.url = media/popup_2F9EA668_389A_B390_41A8_FC2600AE06E7_pt_0_1.png
+imlevel_2E03C945_389A_F190_41C4_2539372AEF2F.url = media/popup_2F9EA668_389A_B390_41A8_FC2600AE06E7_pt_0_2.png
+
+### Popup Image
+
+### Title
+video_2E47864B_3897_9390_41C7_2C924EFA8F8D.label = Audi no Primavera Sound São Paulo 2022
+panorama_3B91321D_376E_93B0_41C6_A8B09635A471.label = Carro dentro editada
+panorama_3C9CB02C_376E_8F90_41B2_86F8A67EDAF5.label = Entrada
+panorama_7B1A8FC1_38EB_9090_41C7_F668AEDAA633.label = Motos
+panorama_3C9C7F8D_376E_B090_41CB_1CF649210859.label = frente carro
+panorama_3C9FAD54_376E_91B0_41C8_5150D60E7299.label = in01
+panorama_3C9C8B59_376E_71B0_41C3_2B1E6B8AC823.label = in2
+panorama_3C9FDA43_376D_9390_41B2_DB27A535CE58.label = in3
+panorama_1D04F4AE_38AA_7090_41C7_93D425353511.label = teto solar corrigida
+panorama_3C9C4614_376D_F3B0_41C8_5D522346E4C9.label = traz carro
+panorama_3C9C377F_376D_9070_41C9_179092C8E37F.label = traz carro aberta
+
+### Video
+videolevel_2E3C9AE5_3883_8AB5_41B3_1761F55C0FD8.posterURL = media/video_2E47864B_3897_9390_41C7_2C924EFA8F8D_poster_pt.jpg
+videolevel_2E3C9AE5_3883_8AB5_41B3_1761F55C0FD8.url = media/video_2E47864B_3897_9390_41C7_2C924EFA8F8D_pt.mp4
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = A5 
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = A5 
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = Q3
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = Q3
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = Q5
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = Q5
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = Q7
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = Q7
+Button_23A8F46F_38F6_9790_41A3_CC1A38E8DDAD.label = START
+Button_23A8F46F_38F6_9790_41A3_CC1A38E8DDAD_mobile.label = START
+Button_23F057B8_0C0A_629D_41A2_CD6BDCDB0145.label = lorem ipsum
+
+### Image
+Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_mobile_pt.png
+Image_1B99DD00_16C4_0505_41B3_51F09727447A.url = skin/Image_1B99DD00_16C4_0505_41B3_51F09727447A_pt.png
+Image_230D263B_38BE_B3F0_4192_6141865CA29D_mobile.url = skin/Image_230D263B_38BE_B3F0_4192_6141865CA29D_mobile_pt.png
+Image_230D263B_38BE_B3F0_4192_6141865CA29D.url = skin/Image_230D263B_38BE_B3F0_4192_6141865CA29D_pt.png
+Image_23770A06_3895_B390_41A8_1C147F7DC4A2.url = skin/Image_23770A06_3895_B390_41A8_1C147F7DC4A2_pt.png
+Image_24B6F998_38F5_B0B0_4199_8A9761FC97A1_mobile.url = skin/Image_24B6F998_38F5_B0B0_4199_8A9761FC97A1_mobile_pt.png
+Image_24B6F998_38F5_B0B0_4199_8A9761FC97A1.url = skin/Image_24B6F998_38F5_B0B0_4199_8A9761FC97A1_pt.png
+
+### Multiline Text
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.760000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.3900000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3000000000000016vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;"> </SPAN><SPAN STYLE="font-size:1.53vmin;">• Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.5300000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.53vmin;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV></div>
+HTMLText_179DF0E3_3895_B090_41B3_853D391DCFBD.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_179DF0E3_3895_B090_41B3_853D391DCFBD_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Audi_JP
